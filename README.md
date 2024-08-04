@@ -1,2 +1,2 @@
 # Problem-Solving
-Write a program to swipe The Value of X and Y.
+Write a program to swipe The Value of two numbers.
